@@ -20,3 +20,5 @@ Faça um texto para ebook de engenharia civil, com foco em Patologia das Constru
 "Crie em imagem realística um conjunto de edifícios que destacam o valor da engenharia civil"
 
 Espero que gostem do resultado....Valeu!!!
+
+https://github.com/Leandro-Pieretti/Ebook_patologia_construcoes/blob/main/EBOOK%20-%20LEANDRO%20PIERETTI.pdf
